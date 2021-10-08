@@ -1,5 +1,5 @@
 body{
-background-image: url(fondo.jpg);
+background:url(imagenes/fondo.jpg);
 
 }
 
@@ -8,7 +8,7 @@ h1{
     color:purple;
 	font-family: Showcard Gothic;
 	text-align: center;
-	font-size: 30px;
+	font-size: 40px;
 	font-weight: bold;
 	letter-spacing: 10px;
 	text-shadow: 3px 3px 3px #F7BE81;
@@ -20,7 +20,7 @@ header, footer{
 
 	background-color: #F8E0E6;
 	border-style: solid;
-	border-radius:48px;
+	border-radius:70px;
 	padding: 1px;
 	text-align: center;
 }
